@@ -1,0 +1,4 @@
+outs:
+- md5: a98b4068ce9b32683e57bc1883342c50
+  size: 62676533
+  path: test_dvc.zip
